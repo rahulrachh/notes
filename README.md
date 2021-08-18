@@ -1,6 +1,6 @@
-# notes
+# Notes-App
 
-The home page of the item
+The home page view of the app
 ![image](https://user-images.githubusercontent.com/25946587/129823533-e9a13a77-3ab4-4805-af2f-314f360cbd14.png)
 
 The front page of the apps after adding items.
@@ -17,4 +17,3 @@ To recreate this, follow the following step:
 - Go to React folder and run ```npm start``` to start the react app.
 - Along with these, to get the live demo of the datbase launch the MongoDB Compass and input the address ```mongodb://localhost:27017/``` to connect to the database where these operations are happening.
 
-notes
