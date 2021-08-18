@@ -1,5 +1,8 @@
 # Notes-App
 
+APIs created using FastAPI
+![image](https://user-images.githubusercontent.com/25946587/129864889-0ce2a096-7367-4e6d-8189-468245fa2ac8.png)
+
 The home page view of the app
 ![image](https://user-images.githubusercontent.com/25946587/129823533-e9a13a77-3ab4-4805-af2f-314f360cbd14.png)
 
@@ -13,7 +16,7 @@ To recreate this, follow the following step:
 - Download and install [MongoDb Compass](https://docs.mongodb.com/compass/current/install/), [MongoDB shell](https://www.mongodb.com/products/shell) and [MongoDB community server](https://www.mongodb.com/try/download/community). After these things are installed, add mongodb to the PATH variable.
 - Make sure you have Javascript and ReactJS installed.
 - Also, Install FastAPI version 0.65.1, I have also mentioned that in the requirements.txt file in the fastAPI folder.
-- Open the terminal and run ``` uvicorn main:app --reload``` to run the fastAPI server and go to ```http://127.0.0.1:8000/docs``` to see the APIs that were created for this project.
+- Open the terminal and run ``` uvicorn main:app --reload``` in the fastAPI folder to run the fastAPI server and go to ```http://127.0.0.1:8000/docs``` to see the APIs that were created for this project.
 - Go to React folder and run ```npm start``` to start the react app.
 - Along with these, to get the live demo of the datbase launch the MongoDB Compass and input the address ```mongodb://localhost:27017/``` to connect to the database where these operations are happening.
 
