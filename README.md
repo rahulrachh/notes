@@ -9,7 +9,7 @@ The home page view of the app
 The front page of the apps after adding items.
 ![image](https://user-images.githubusercontent.com/25946587/129823322-c4a7bf64-8423-48e5-9a34-45eebfccd824.png)
 
-We can delete the notes by clicking on the "-" button. The front page of the app after deleting a few items.
+We can delete the notes by clicking on the "x" button. The front page of the app after deleting a few items.
 ![image](https://user-images.githubusercontent.com/25946587/129823473-cb7434ea-b7c7-419f-99a8-e1ddec570352.png)
 
 To recreate this, follow the following step:
